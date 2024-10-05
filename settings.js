@@ -4,13 +4,13 @@ const profileSettings = {
   title: "ALFI XD | Profile", // Judul halaman
   metaTitle: "Alfi || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website ALFI XD, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Alfi, ALFI XD, profile Vynaa, siapa Alfi?", // Keywords meta untuk SEO
+  metaKeywords: "Alfi, ALFI XD, profile Alfi, siapa Alfi?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/alfi.jpg", // Path ke gambar profil
   name: "ALFI XD", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
-    { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
+    { title: "GitHub", url: "https://github.com/Fiisya", icon: "fa-github" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/alfisyahriaal", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://t.me/alfisyahrial", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto: asistenawaktop@gmail.com", icon: "fa-envelope" }, // Tautan Email
@@ -51,4 +51,4 @@ profileSettings.links.forEach(link => {
     linkBoxes.appendChild(linkElement);
   }
 });
-
+ 
