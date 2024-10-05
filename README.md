@@ -1,15 +1,15 @@
 # Vynaa Valerie | Profile
 
-![Profile Screenshot](https://telegra.ph/file/0447ca918206f8bf59f65.jpg)
+![Profile Screenshot](https://pomf2.lain.la/f/xhrlplf1.jpg)
 
 ## Developer
 
-- **Instagram**: [@vynaa_valerie](https://instagram.com/vynaa_valerie)
-- **WhatsApp**: [Message Vynaa Valerie](https://wa.me/message/2MOJNXNC45Y5E1)
+- **Instagram**: [@alfisyahriaal](https://instagram.com/alfisyahriaal)
+- **WhatsApp**: [Message Alfi](https://wa.me/62895615063060)
 
-## Donasi
+## Donate
 
-- [Saweria](https://saweria.co/vynaabot)
+- [Saweria](https://saweria.co/alfiisyl)
 
 ---
 
@@ -26,4 +26,4 @@ Proyek ini adalah halaman profil untuk Vynaa Valerie, seorang pengembang dan kre
 
 ### Credits
 
-© Recode by Vynaa Valerie
+© Recode by AlfiXD
