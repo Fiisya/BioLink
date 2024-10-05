@@ -15,7 +15,7 @@
 
 ### Tentang Website
 
-Proyek ini adalah halaman profil untuk Vynaa Valerie, seorang pengembang dan kreator konten. Halaman ini menampilkan informasi kontak utama dan tautan donasi untuk mendukung proyek.
+Proyek ini adalah halaman profil untuk Alfi, seorang pengembang dan kreator konten. Halaman ini menampilkan informasi kontak utama dan tautan donasi untuk mendukung proyek.
 
 ### Cara Setting
 
